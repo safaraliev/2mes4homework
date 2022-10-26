@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		353F710A2909353300D605D2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353F71092909353300D605D2 /* main.swift */; };
+		353F711129093ABA00D605D2 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353F711029093ABA00D605D2 /* Product.swift */; };
+		353F711329093B2400D605D2 /* Pokupatel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353F711229093B2400D605D2 /* Pokupatel.swift */; };
+		353F71152909417B00D605D2 /* KassirDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353F71142909417B00D605D2 /* KassirDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		353F71062909353300D605D2 /* 2mes4homework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2mes4homework; sourceTree = BUILT_PRODUCTS_DIR; };
 		353F71092909353300D605D2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		353F711029093ABA00D605D2 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		353F711229093B2400D605D2 /* Pokupatel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokupatel.swift; sourceTree = "<group>"; };
+		353F71142909417B00D605D2 /* KassirDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KassirDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				353F71092909353300D605D2 /* main.swift */,
+				353F711029093ABA00D605D2 /* Product.swift */,
+				353F711229093B2400D605D2 /* Pokupatel.swift */,
+				353F71142909417B00D605D2 /* KassirDelegate.swift */,
 			);
 			path = 2mes4homework;
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				353F710A2909353300D605D2 /* main.swift in Sources */,
+				353F711329093B2400D605D2 /* Pokupatel.swift in Sources */,
+				353F711129093ABA00D605D2 /* Product.swift in Sources */,
+				353F71152909417B00D605D2 /* KassirDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
