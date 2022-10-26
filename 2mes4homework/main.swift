@@ -19,3 +19,21 @@ pokupatel1.addProduct(product: bread)
 
 pokupatel1.cheklist()
 pokupatel1.sdacha()
+
+/*
+   _mes4homework.Product #0
+   - name: "Молоко"
+   - price: 60
+   - amount: 1
+   _mes4homework.Product #1
+   - name: "Pepsi"
+   - price: 55
+   - amount: 2
+   _mes4homework.Product #2
+   - name: "Хлеб"
+   - price: 20
+   - amount: 2
+ ---------------------
+  Общая стоимость: 210 сом
+  Получите сдачу: 290 сом
+ */
